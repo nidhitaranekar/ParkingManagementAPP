@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLmY1CIHZTl3Bb8Ntk2+8PC9uQw0FR1/9vvRO6gUituEHjrCFx8DubCPR9ha7F58c/Qxv+k1T8KFG1FLLnC/ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ParkingManagementApp\\ParkingManagementApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
